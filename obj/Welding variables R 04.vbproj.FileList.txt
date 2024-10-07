@@ -1,0 +1,30 @@
+obj\Debug\Welding variables R 04.exe
+obj\Debug\Welding variables R 04.xml
+obj\Debug\Welding variables R 04.pdb
+bin\Debug\Welding variables R 04.exe
+bin\Debug\Welding variables R 04.pdb
+bin\Debug\Welding variables R 04.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Convert.resources
+obj\Debug\WindowsApplication1.PreRef.resources
+obj\Debug\WindowsApplication1.Help.resources
+obj\Debug\WindowsApplication1.LoginForm1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+obj\Debug\WindowsApplication1.Welding.resources
+obj\Debug\Welding variables R 04.vbproj.GenerateResource.Cache
+obj\Debug\Welding variables R 04.vbproj.ResolveComReference.cache
+bin\Release\Welding variables R 04.exe
+bin\Release\Welding variables R 04.pdb
+bin\Release\Welding variables R 04.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Welding variables R 04.vbproj.ResolveComReference.cache
+obj\Release\WindowsApplication1.Convert.resources
+obj\Release\WindowsApplication1.PreRef.resources
+obj\Release\WindowsApplication1.Help.resources
+obj\Release\WindowsApplication1.LoginForm1.resources
+obj\Release\WindowsApplication1.Resources.resources
+obj\Release\WindowsApplication1.Welding.resources
+obj\Release\Welding variables R 04.vbproj.GenerateResource.Cache
+obj\Release\Welding variables R 04.exe
+obj\Release\Welding variables R 04.xml
+obj\Release\Welding variables R 04.pdb
